@@ -1,4 +1,4 @@
-### Hi there :wink:
+### Olá :wink:
 
 Meu nome  é  <b>Max Henrique</b>, estou ingressando na area de programação,  estou me aprimorando com  o DevClub.
 
