@@ -17,7 +17,7 @@ Meu nome  é  <b>Max Henrique</b>, estou ingressando na area de programação,  
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Henrick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Henrick&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![Status Max](https://github-readme-stats.vercel.app/api?username=Max-Henrick&show_icons=true&theme=transparent)
 
