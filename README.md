@@ -4,7 +4,7 @@ Sou alegre e comunicativo, amo trabalhar com pessoas e em grupo. Tenho muita fac
 
 Tenho experiência Front-end: React.JS, Javascript, HTML5, CSS3, styled-components, HOOKS, Sintaxe JSX.
 
-Experiência em Banck-End: Node.JS, API Rest, PostgreSQL, Insomnia.
+Experiência em Banck-End: Node.JS, API Rest, PostgreSQL, MongoDB, Insomnia.
 
 Em constante aprendizado para melhorar o desenvolvimento pessoal e na área da programação. Sempre disposto a conhecer e aprender novas tecnologias.
 
@@ -14,7 +14,6 @@ Em projetos Pessoais e nos projetos da dentro do DevClub.
 Estou em processo de aprendizagem:
 
  - React Native
- - MongoDB
 
 <br>
 
